@@ -1,0 +1,21 @@
+{
+  "name": "ng-chips",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/ng-chips.umd.js",
+  "module": "fesm5/ng-chips.js",
+  "es2015": "fesm2015/ng-chips.js",
+  "esm5": "esm5/ng-chips.js",
+  "esm2015": "esm2015/ng-chips.js",
+  "fesm5": "fesm5/ng-chips.js",
+  "fesm2015": "fesm2015/ng-chips.js",
+  "typings": "ng-chips.d.ts",
+  "metadata": "ng-chips.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
